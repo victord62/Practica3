@@ -10,6 +10,6 @@
   <artifactId>uchoteles.dao</artifactId>
   
   <build>
-  	<finalName>uchoteles.dao</finalName>
+    <finalName>uchoteles.dao</finalName>
   </build>
 </project>
