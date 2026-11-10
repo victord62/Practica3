@@ -12,4 +12,12 @@
   <build>
     <finalName>uchoteles.business</finalName>
   </build>
+  
+  <dependencies>
+    <dependency>
+      <groupId>es.unican.ps</groupId>
+      <artifactId>uchoteles.common</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+  </dependencies>
 </project>
